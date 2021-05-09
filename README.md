@@ -2,6 +2,11 @@
 
 Download [Expo Go](https://expo.io/client) to run this application on iOS or Android device.
 
+* Features
+** Scan DID QR code 
+** Resolving DID to DID Document with W3C DID standard
+** Display Credential context, such as Alumni of the school which School issue the credential.
+
 # DID generator and QR Code
 
 * IPDID DID complainted Indetify System can run to create DID and register on IPFS and SKALE network blockchain.
